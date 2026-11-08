@@ -1,0 +1,22 @@
+{
+  "wheel_id": 827,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-152",
+  "project": "pool-retaining-walls-brisbane-budget-tips-6245578559fb0e2da7f47",
+  "parent_t1_ref": "poolretainingwallsbrisbane-004",
+  "node_role": "buffer",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining walls brisbane budget tips",
+  "intended_url": "https://aumedia.neocities.org/pool-retaining-walls-brisbane-budget-tips-6245578559fb0e2da7f47/",
+  "tier": "T2",
+  "writeback_nonce": "e3a2aa72983d31da",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/pool-retaining-walls-brisbane-poolretainingwallsbrisbane-004/",
+      "anchor": "this pool retaining walls brisbane resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
